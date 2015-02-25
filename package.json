@@ -1,0 +1,28 @@
+{
+  "name": "Reactmeetup",
+  "version": "0.0.0",
+  "description": "Demo code for the meetup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Chris Bland <chris@perfectpipeline.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "accounting": "^0.4.1",
+    "browserify": "^6.0.0",
+    "gulp": "^3.8.7",
+    "gulp-notify": "^2.0.1",
+    "gulp-util": "^3.0.1",
+    "lodash": "^3.3.1",
+    "react": "^0.12.2",
+    "react-bootstrap": "^0.15.1",
+    "reactify": "1.0.0",
+    "uglify-js": "^2.4.13",
+    "vinyl-source-stream": "^1.0.0",
+    "watchify": "^2.0.0"
+  }
+}
